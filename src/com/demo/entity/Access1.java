@@ -4,7 +4,7 @@ import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
 /*Access private constructor by class class*/
-public class Access1 extends Thread {
+public class Access1 {
 
 	public static void main(String args[]) throws InstantiationException, IllegalAccessException,
 			IllegalArgumentException, InvocationTargetException, ClassNotFoundException {
