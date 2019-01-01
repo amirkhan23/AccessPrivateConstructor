@@ -2,7 +2,7 @@
 "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
 
 <beans>
-	<bean id="cons" class="com.demo.entity.ConstructorAccess">
+	<bean id="ConstructorAccess" class="com.accessPrivateConstructor.ConstructorAccess">
 
 	</bean>
 </beans>

@@ -1,4 +1,4 @@
-package com.demo.entity;
+package com.accessPrivateConstructor;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
